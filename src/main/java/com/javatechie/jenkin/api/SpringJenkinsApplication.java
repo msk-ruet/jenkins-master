@@ -21,6 +21,7 @@ public class SpringJenkinsApplication {
 	public static void main(String[] args) {
 		logger.info("This is my jenkins integration");
 		logger.info("This is my jenkins integration 2");
+		logger.info("This is my jenkins integration 3");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
